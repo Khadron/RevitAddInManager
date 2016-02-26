@@ -1,0 +1,18 @@
+E:\Personal\MyProject\VC\Revit\Autumn\Autumn.RevitAddInManager\obj\Debug\Autumn.RevitAddInManager.Properties.Resources.resources
+E:\Personal\MyProject\VC\Revit\Autumn\Autumn.RevitAddInManager\obj\Debug\Autumn.RevitAddInManager.csproj.GenerateResource.Cache
+E:\Personal\MyProject\VC\Revit\Autumn\Autumn.RevitAddInManager\bin\Debug\Autumn.RevitAddInManager.exe.config
+E:\Personal\MyProject\VC\Revit\Autumn\Autumn.RevitAddInManager\bin\Debug\Autumn.RevitAddInManager.exe
+E:\Personal\MyProject\VC\Revit\Autumn\Autumn.RevitAddInManager\bin\Debug\Autumn.RevitAddInManager.pdb
+E:\Personal\MyProject\VC\Revit\Autumn\Autumn.RevitAddInManager\bin\Debug\RevitAddInUtility.dll
+E:\Personal\MyProject\VC\Revit\Autumn\Autumn.RevitAddInManager\obj\Debug\Autumn.RevitAddInManager.exe
+E:\Personal\MyProject\VC\Revit\Autumn\Autumn.RevitAddInManager\obj\Debug\Autumn.RevitAddInManager.pdb
+E:\Personal\MyProject\VC\Revit\Autumn\bin\Autumn.RevitAddInManager.exe.config
+E:\Personal\MyProject\VC\Revit\Autumn\bin\Autumn.RevitAddInManager.exe
+E:\Personal\MyProject\VC\Revit\Autumn\bin\Autumn.RevitAddInManager.pdb
+E:\Personal\MyProject\VC\Revit\Autumn\Autumn.RevitAddInManager\obj\Debug\Autumn.RevitAddInManager.FrmMain.resources
+C:\Users\Qiang Kong\Desktop\Autumn.RevitAddInManager\bin\Autumn.RevitAddInManager.exe.config
+C:\Users\Qiang Kong\Desktop\Autumn.RevitAddInManager\Autumn.RevitAddInManager\obj\Debug\Autumn.RevitAddInManager.exe
+C:\Users\Qiang Kong\Desktop\Autumn.RevitAddInManager\Autumn.RevitAddInManager\obj\Debug\Autumn.RevitAddInManager.pdb
+C:\Users\Qiang Kong\Documents\RevitAddInManager\bin\Autumn.RevitAddInManager.exe.config
+C:\Users\Qiang Kong\Documents\RevitAddInManager\Autumn.RevitAddInManager\obj\Debug\Autumn.RevitAddInManager.exe
+C:\Users\Qiang Kong\Documents\RevitAddInManager\Autumn.RevitAddInManager\obj\Debug\Autumn.RevitAddInManager.pdb
